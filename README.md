@@ -1,4 +1,4 @@
-# Subscription bot
+# Broadcast bot
 
 ## Running locally
 
@@ -8,9 +8,9 @@ Follow the steps below to run the app
 
 ```bash [cmd]
 # Clone the repo
-git clone https://github.com/fabriguespe/subscription-bot
+git clone https://github.com/fabriguespe/broadcast-bot
 # Go to the example folder
-cd examples/subscription-bot
+cd examples/broadcast-bot
 # Install the dependencies
 bun install
 # Run the app
@@ -25,3 +25,7 @@ Set up these variables in your app
 KEY= # 0x... the private key of the bot wallet (with the 0x prefix)
 REDIS_CONNECTION_STRING= # redis db connection string
 ```
+
+---
+
+Made with ❤️ by [Ephemera](https://ephemerahq.com).
