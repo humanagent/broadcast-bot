@@ -1,9 +1,5 @@
 # Broadcast bot
 
-## Running locally
-
-Follow the steps below to run the app
-
 ### Set up
 
 ```bash [cmd]
